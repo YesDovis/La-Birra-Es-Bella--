@@ -9,13 +9,10 @@
     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/img/pupurrybeer.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     padding: 100px 0 10px;
-        
-    background-repeat: no-repeat; 
-    background-size: cover; /* ancho del contenedor */
-    background-position: center center; /*centra imagen siempre a contenedor */
 }
+
 
 #banner-cerveza h2 {
     font-size: 3em;

@@ -47,7 +47,8 @@ Público Objetivo: :beer: Amantes del lupulo y nuevos interesados :beer:
 de contacto.
 
 ### Contacto:
-  ● Email del Representante:dovisyesica@gmail.com
+  ● Linkedin  : https://www.linkedin.com/in/dovisyesica/
+  ● Linkedin  : https://www.linkedin.com/in/matias-lombardi-a237b818b/
 
 ### Fecha de Entrega:
   ● La fecha de entrega del proyecto informada por el Instructor clase Entrega Final 27/05 al 29/05
@@ -92,6 +93,9 @@ de contacto.
 - [x] Utilizar iframes y/o íconos de FontAwesome y/o fuentes
      locales o bien de Google Fonts.Es optativo incluir algún
      elemento de Bootstrap.
+
+---------|| 2024 || Equipo 17 PYTHON-FRONTEND || 24188 ||---------
+    
 
 
 

@@ -11,6 +11,10 @@
     background-size: cover;
     background-position: center;
     padding: 100px 0 10px;
+        
+    background-repeat: no-repeat; 
+    background-size: cover; /* ancho del contenedor */
+    background-position: center center; /*centra imagen siempre a contenedor */
 }
 
 #banner-cerveza h2 {
